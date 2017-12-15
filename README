@@ -1,3 +1,17 @@
+Mirror
+------
+
+Looks like the project is dead. I uploaded it unmodified to Github to avoid
+loosing the source code (released as GPL 3), and to have a stable source
+from which the Arch AUR package (aur/since) can fetch its sources.
+
+The offical homepage is:
+
+* http://welz.org.za/projects/since
+* https://web.archive.org/web/20170524153241/http://welz.org.za/projects/since
+
+The rest is now taken unmodified from the last release.
+
 Since
 -----
 
